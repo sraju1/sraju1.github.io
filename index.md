@@ -6,6 +6,12 @@ I am currently a research technician at UCSF, working at the interface of geneti
 
 I will be joining Harvard's Systems Biology PhD Program this coming Fall. I graduated *summa cum laude* from Emory University in 2016, majoring in Applied Mathematics and Physics. 
 
+### Papers
+[Desmoglein 3 Order and Dynamics in Desmosomes Determined by Fluorescence Polarization Microscopy](https://www.ncbi.nlm.nih.gov/pubmed/29212005)
+
+### Personal Projects
+asdfsadfa
+
 ### Support or Contact
 
 If you are interested in learning more about my work, please feel free to email me at sid.s.raju@gmail.com. 
