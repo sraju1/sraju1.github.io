@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Siddharth (Sid) Raju
 
 You can use the [editor on GitHub](https://github.com/Manuel83/sample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are interested in learning more about my work, please feel free to email me at sid.s.raju@gmail.com. 
