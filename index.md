@@ -1,5 +1,5 @@
 ## About Me
-<img src="https://github.com/sraju1/sraju1.github.io/blob/master/Images/profilephoto2019.png" >
+![useful image](https://github.com/sraju1/sraju1.github.io/blob/master/Images/profilephoto2019.png)
 
 I am a physicist by training, a data scientist and biologist by trade, and a philosopher by nature. I seek to discover the general rules of scale dependence that underlie order in complex living systems.
 
