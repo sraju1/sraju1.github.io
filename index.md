@@ -8,6 +8,7 @@ I will be joining Harvard's Systems Biology PhD Program this coming Fall. I grad
 
 ### Papers
 [Desmoglein 3 Order and Dynamics in Desmosomes Determined by Fluorescence Polarization Microscopy](https://www.ncbi.nlm.nih.gov/pubmed/29212005)
+
 Bartle EI, Urner TM, Raju **SS**, Mattheyses AL. *Biophysical Journal, 2017*
 
 ### Personal Projects
