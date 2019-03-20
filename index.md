@@ -1,8 +1,10 @@
-## Siddharth (Sid) Raju
+## About Me
 
-You can use the [editor on GitHub](https://github.com/Manuel83/sample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a physicist by training, a data scientist and biologist by trade, and a philosopher by nature. I seek to discover the general rules of scale dependence that underlie order in complex living systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a research technician at UCSF, working at the interface of genetics, immunology, and systems biology. Under the joint supervision of Drs. Alexander Marson, Jimmie Ye, and Matt Spitzer, I am determining how immune cell proportions, profiles, and fates are shifted in various disease states. 
+
+I will be joining Harvard's Systems Biology PhD Program this coming Fall. I graduated summa cum laude from Emory University in 2016, majoring in Applied Mathematics and Physics. 
 
 ### Markdown
 
