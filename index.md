@@ -8,10 +8,8 @@ I am currently pursuing my PhD in Systems Biology at Harvard Medical School. Pri
 I graduated *summa cum laude* from Emory University in 2016, majoring in Applied Mathematics and Physics. I was born in New Jersey but have lived in Illinois, California, Massachusetts, Georgia, and Wisconsin. I am always thinking about ways to push forward breakthroughs in cancer immunology, gene therapy, and cell engineering.
 
 ### Papers
-[How mutations express themselves in blood-cell production]
-(https://www.nature.com/articles/d41586-019-02028-2)
-
-**Raju S** & Ye CJ. *Nature, 2019* [News & Views]
+[How mutations express themselves in blood cell production](https://www.nature.com/articles/d41586-019-02028-2)
+**Raju S** & Ye CJ. *Nature, 2019*
 
 [Desmoglein 3 Order and Dynamics in Desmosomes Determined by Fluorescence Polarization Microscopy](https://www.ncbi.nlm.nih.gov/pubmed/29212005)
 
