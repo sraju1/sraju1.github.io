@@ -1,6 +1,3 @@
-## Test
-[test](https://github.com/sraju1/sraju1.github.io/blob/master/about.md)
-
 ## Introduction
 
 I understand disease to be an emergent property arising from the byzantine hierarchies of life; I thus seek to discover the general rules of scale dependence that underlie order in complex living systems. I currently focus on the immune system from the perspective of network dynamics in genetic circuits, tumor microenvironments, and autoimmune diseases. 
@@ -17,6 +14,9 @@ I graduated *summa cum laude* from Emory University in 2016, majoring in Applied
 [Desmoglein 3 Order and Dynamics in Desmosomes Determined by Fluorescence Polarization Microscopy](https://www.ncbi.nlm.nih.gov/pubmed/29212005)
 
 Bartle EI, Urner TM, **Raju SS**, Mattheyses AL. *Biophysical Journal, 2017*
+
+### Links
+[About Me](https://github.com/sraju1/sraju1.github.io/blob/master/about.md)
 
 ### Personal Projects
 Under Construction
