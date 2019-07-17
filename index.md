@@ -16,7 +16,7 @@ I graduated *summa cum laude* from Emory University in 2016, majoring in Applied
 Bartle EI, Urner TM, **Raju SS**, Mattheyses AL. *Biophysical Journal, 2017*
 
 ### Links
-[About Me](https://htmlpreview.github.com/sraju1/sraju1.github.io/blob/master/about.html)
+[About Me](http://htmlpreview.github.com/?https://github.com/sraju1/sraju1.github.io/blob/master/about.html)
 
 ### Personal Projects
 Under Construction
